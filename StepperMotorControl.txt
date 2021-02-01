@@ -9,8 +9,8 @@
 #define DelayN 2    //delay in ms for motor steps
 #define NUMBER_OF_STEPS_PER_REV 512
 
-const char* ssid = "Visable";
-const char* password = "Zohaib10";
+const char* ssid = "_"; //your ssid here
+const char* password = "_"; //your ssid password
 
 
 bool forwardRotate = 0;
