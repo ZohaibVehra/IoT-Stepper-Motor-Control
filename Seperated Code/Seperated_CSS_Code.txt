@@ -1,0 +1,28 @@
+h1{ 
+    color: black;
+    text-align: center;
+}
+
+h2{ 
+    color: black;
+    text-align: center;
+}
+
+.buttonContainer{
+    padding-top: 50px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.forwardButton{
+    height: 200px;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+.backwardsButton{
+    height: 200px;
+    width: 300px;
+    margin: auto;
+}
